@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="Titleicon">
+    <file>Wallpaper/cpu_wireframe.jpg</file>
+  </qresource>
+</RCC>
