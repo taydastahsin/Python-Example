@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="Tree">
+    <file>Resimler/tree.jpg</file>
+  </qresource>
+  <qresource prefix="Girl">
+    <file>Resimler/girl.jpg</file>
+  </qresource>
+  <qresource prefix="Lion">
+    <file>Resimler/lion.jpg</file>
+  </qresource>
+</RCC>
