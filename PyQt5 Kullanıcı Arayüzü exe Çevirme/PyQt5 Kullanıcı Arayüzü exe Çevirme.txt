@@ -1,0 +1,5 @@
+".py" uzantılı dosyalarımızı seçiyoruz. 
+Seçilen dosyaları ayrı bir klasöre atıyoruz.
+Klasörn içinde komut satırını açıp ;
+ pyinstaller --onefile -w -i .\resim.ico .\gui.py
+yazıp .".exe" çevirmiş olacağız. 
