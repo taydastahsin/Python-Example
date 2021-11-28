@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>laptop_2.ico</file>
+    <file>start.ico</file>
+    <file>stop.ico</file>
+  </qresource>
+</RCC>
