@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>lion.jpg</file>
+    <file>ünlem.jpg</file>
+    <file>soru.jpg</file>
+    <file>in.jpg</file>
+    <file>x.png</file>
+  </qresource>
+</RCC>
