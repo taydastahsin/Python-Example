@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="ball">
+    <file>genişletme.jpg</file>
+    <file>kapat.png</file>
+    <file>simge_durumu.jpg</file>
+    <file>ball.jpg</file>
+  </qresource>
+</RCC>
